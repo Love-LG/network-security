@@ -2,7 +2,6 @@
 网络攻防实验项目操作步骤：
 * 1、下载medusa和libssh
 ```bash
- wget http://www.foofus.net/jmk/tools/medusa-2.0.tar.gz
  wget http://www.libssh2.org/download/libssh2-1.2.6.tar.gz
 ```
 * 2、安装medusa和libssh
